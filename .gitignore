@@ -1,0 +1,5 @@
+.env
+synced.db
+.fit_index.pkl
+__pycache__/
+*.pyc
